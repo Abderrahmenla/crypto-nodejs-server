@@ -1,0 +1,37 @@
+
+{
+  "mongoURI": "mongodb+srv://vadim0621:BNIt4bSFJBDHZZoA@cluster0.4fggt5p.mongodb.net/staking_db?retryWrites=true&w=majority",
+  "jwtSecret": "twm",
+  "jsonRPC": "https://eth-mainnet.g.alchemy.com/v2/26t6Od2wqkhFyeYUyM9wUH1k9T-nMx_J",
+  "AUTH_PRIVATE_KEY": "5dba608fcf798f71984369b5ca4ab99c0faeaea07ae1e3d8b02a9de1ab0db36f",
+  "twmAddress": "0x64f1489229061f3B515fAe43C6f91A49FdCE5424",
+  "twmBank": "0x8030D42D81409E9737a3e025A412c24B3F252fc2",
+  "twtToken": "0xD88f0726dfb175e534213619C4C4A686D09cA743",
+  "utilityAddress": "0x16A2E3704AE5A46311d76BCFa5E42541171964F2"
+}
+
+{
+  "mongoURI": "mongodb+srv://vadim0621:BNIt4bSFJBDHZZoA@cluster0.4fggt5p.mongodb.net/staking_db?retryWrites=true&w=majority",
+  "jwtSecret": "twm",
+  "jsonRPC": "https://eth-goerli.g.alchemy.com/v2/26t6Od2wqkhFyeYUyM9wUH1k9T-nMx_J",
+  "AUTH_PRIVATE_KEY": "5264f965449a20f8aad821c2300fcc22424a20be785356116d848c1bfc152a63",
+  "twmAddress": "0x6109351c250DE3fdb6B94B5e50b01a14aC94886a",
+  "twmBank": "0x19367c16d694ec647d311392090e880d6a92a809",
+  "twtToken": "0x2EE8CdA853903aF5e2e5b3e16f4dcA0537A504d2",
+  "utilityAddress": "0x94cdad0b08cfc45402B7dF1f1e543771292d25B9"
+}
+
+
+{
+  "mongoURI": "mongodb+srv://vadim0621:BNIt4bSFJBDHZZoA@cluster0.4fggt5p.mongodb.net/staking_db?retryWrites=true&w=majority",
+  "jwtSecret": "twm",
+  "jsonRPC": "https://eth-mainnet.g.alchemy.com/v2/26t6Od2wqkhFyeYUyM9wUH1k9T-nMx_J",
+  "AUTH_PRIVATE_KEY": "5dba608fcf798f71984369b5ca4ab99c0faeaea07ae1e3d8b02a9de1ab0db36f",
+  "twmAddress": "0x64f1489229061f3B515fAe43C6f91A49FdCE5424",
+  "twmBank": "0xc8D4FB0c2fAD42aBF85d123381E92D81F97B3e03",
+  "twtToken": "0xD88f0726dfb175e534213619C4C4A686D09cA743",
+  "utilityAddress": "0x037F8F26a3eD7A7D77a151EFafe9dD0F013668F7",
+  "WIN_COLOR_MULTIPLE_NUMBER": 2,
+  "WIN_BOTH_MULTIPLE_NUMBER": 5,
+  "TOKEN_RATE": 100
+}
